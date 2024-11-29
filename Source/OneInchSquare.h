@@ -3,7 +3,7 @@
 #pragma once
 
 #include "Components/Widget.h"
-#include "OneInchSquare.generated.h
+#include "OneInchSquare.generated.h"
 
 // A square that's exactly one inch, finds the monitor this widget is rendered into
 // read EDID data to grab the monitor's physical size
