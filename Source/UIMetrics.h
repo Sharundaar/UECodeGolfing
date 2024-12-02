@@ -1,3 +1,5 @@
+﻿// Copyright Sharundaar All Rights Reserved.
+
 #pragma once
 
 #include "Blueprint/UserWidget.h"
