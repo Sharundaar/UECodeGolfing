@@ -1,6 +1,6 @@
-﻿#include "MinimalUserWidgetExtension.h"
+﻿// Copyright Sharundaar. All Rights Reserved.
 
-
+#include "MinimalUserWidgetExtension.h"
 
 #if WITH_EDITOR
 #include "UMGEditorModule.h"
