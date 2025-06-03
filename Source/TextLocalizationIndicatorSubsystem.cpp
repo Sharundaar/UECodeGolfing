@@ -1,10 +1,10 @@
-﻿#include "TextLocalizationIndicatorSubsystem.h"
+﻿// Copyright Sharundaar All Rights Reserved.
+
+#include "TextLocalizationIndicatorSubsystem.h"
 
 #include "Components/TextBlock.h"
 #include "Debug/DebugDrawService.h"
 #include "Engine/Canvas.h"
-
-UE_DISABLE_OPTIMIZATION
 
 namespace TextLocalizationIndicatorSubsystem
 {

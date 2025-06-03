@@ -1,4 +1,6 @@
-﻿#pragma once
+﻿// Copyright Sharundaar All Rights Reserved.
+
+#pragma once
 
 #include "Subsystems/EngineSubsystem.h"
 
